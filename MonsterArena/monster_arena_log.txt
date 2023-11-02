@@ -1,0 +1,652 @@
+********************************************************************************************************************
+                                                            Monster Arena         
+********************************************************************************************************************
+
+Racial Abilities:
+-----------------
+Enrage
+-------
+ Restores 20 health and increases strength by 1. Cooldown 3.
+
+Charm
+-------
+Increases the opponent’s cooldown timers by 2. Cooldown 4.
+
+Drain
+-------
+Deals damage equal to the ghoul’s dexterity and regains half as much health.Cooldown 4.
+
+
+Professional  Abilities:
+-----------------
+Cleave
+-------
+ Deals strength+dexterity damage. Cooldown 3.
+
+Rush
+-------
+Deals 2*dexterity damage. Cooldown 4..
+
+Bash
+-------
+Deals 2*strength damage. Cooldown 4.
+
+
+
+
+
+
+
+
+Round: 1
+------------------------------------
+------------------------------------
+Jack Status: 
+-----------------
+Health: 330/330
+Strength: 16
+Dexterity: 8
+Cooldown Timer: 6
+Profession Cooldown: 2
+----------------- 
+
+Joe Status: 
+-----------------
+Health: 292/300
+Strength: 7
+Dexterity: 15
+Cooldown Timer: 4
+Profession Cooldown: 0
+----------------- 
+
+Name: Jack
+Performed Attack: Drain
+
+Name: Joe
+Performed Attack: Charm
+
+
+
+
+
+
+Round: 2
+------------------------------------
+------------------------------------
+Jack Status: 
+-----------------
+Health: 308/330
+Strength: 16
+Dexterity: 8
+Cooldown Timer: 5
+Profession Cooldown: 1
+----------------- 
+
+Joe Status: 
+-----------------
+Health: 276/300
+Strength: 7
+Dexterity: 15
+Cooldown Timer: 3
+Profession Cooldown: 3
+----------------- 
+
+Name: Jack
+Performed Attack: basic attack
+
+Name: Joe
+Performed Attack: Cleave
+
+
+
+
+
+
+Round: 3
+------------------------------------
+------------------------------------
+Jack Status: 
+-----------------
+Health: 293/330
+Strength: 16
+Dexterity: 8
+Cooldown Timer: 4
+Profession Cooldown: 4
+----------------- 
+
+Joe Status: 
+-----------------
+Health: 244/300
+Strength: 7
+Dexterity: 15
+Cooldown Timer: 2
+Profession Cooldown: 2
+----------------- 
+
+Name: Jack
+Performed Attack: Bash
+
+Name: Joe
+Performed Attack: basic attack
+
+
+
+
+
+
+Round: 4
+------------------------------------
+------------------------------------
+Jack Status: 
+-----------------
+Health: 278/330
+Strength: 16
+Dexterity: 8
+Cooldown Timer: 3
+Profession Cooldown: 3
+----------------- 
+
+Joe Status: 
+-----------------
+Health: 228/300
+Strength: 7
+Dexterity: 15
+Cooldown Timer: 1
+Profession Cooldown: 1
+----------------- 
+
+Name: Jack
+Performed Attack: basic attack
+
+Name: Joe
+Performed Attack: basic attack
+
+
+
+
+
+
+Round: 5
+------------------------------------
+------------------------------------
+Jack Status: 
+-----------------
+Health: 278/330
+Strength: 16
+Dexterity: 8
+Cooldown Timer: 4
+Profession Cooldown: 4
+----------------- 
+
+Joe Status: 
+-----------------
+Health: 212/300
+Strength: 7
+Dexterity: 15
+Cooldown Timer: 4
+Profession Cooldown: 0
+----------------- 
+
+Name: Jack
+Performed Attack: basic attack
+
+Name: Joe
+Performed Attack: Charm
+
+
+
+
+
+
+Round: 6
+------------------------------------
+------------------------------------
+Jack Status: 
+-----------------
+Health: 256/330
+Strength: 16
+Dexterity: 8
+Cooldown Timer: 3
+Profession Cooldown: 3
+----------------- 
+
+Joe Status: 
+-----------------
+Health: 196/300
+Strength: 7
+Dexterity: 15
+Cooldown Timer: 3
+Profession Cooldown: 3
+----------------- 
+
+Name: Jack
+Performed Attack: basic attack
+
+Name: Joe
+Performed Attack: Cleave
+
+
+
+
+
+
+Round: 7
+------------------------------------
+------------------------------------
+Jack Status: 
+-----------------
+Health: 241/330
+Strength: 16
+Dexterity: 8
+Cooldown Timer: 2
+Profession Cooldown: 2
+----------------- 
+
+Joe Status: 
+-----------------
+Health: 180/300
+Strength: 7
+Dexterity: 15
+Cooldown Timer: 2
+Profession Cooldown: 2
+----------------- 
+
+Name: Jack
+Performed Attack: basic attack
+
+Name: Joe
+Performed Attack: basic attack
+
+
+
+
+
+
+Round: 8
+------------------------------------
+------------------------------------
+Jack Status: 
+-----------------
+Health: 226/330
+Strength: 16
+Dexterity: 8
+Cooldown Timer: 1
+Profession Cooldown: 1
+----------------- 
+
+Joe Status: 
+-----------------
+Health: 164/300
+Strength: 7
+Dexterity: 15
+Cooldown Timer: 1
+Profession Cooldown: 1
+----------------- 
+
+Name: Jack
+Performed Attack: basic attack
+
+Name: Joe
+Performed Attack: basic attack
+
+
+
+
+
+
+Round: 9
+------------------------------------
+------------------------------------
+Jack Status: 
+-----------------
+Health: 230/330
+Strength: 16
+Dexterity: 8
+Cooldown Timer: 6
+Profession Cooldown: 2
+----------------- 
+
+Joe Status: 
+-----------------
+Health: 156/300
+Strength: 7
+Dexterity: 15
+Cooldown Timer: 4
+Profession Cooldown: 0
+----------------- 
+
+Name: Jack
+Performed Attack: Drain
+
+Name: Joe
+Performed Attack: Charm
+
+
+
+
+
+
+Round: 10
+------------------------------------
+------------------------------------
+Jack Status: 
+-----------------
+Health: 208/330
+Strength: 16
+Dexterity: 8
+Cooldown Timer: 5
+Profession Cooldown: 1
+----------------- 
+
+Joe Status: 
+-----------------
+Health: 140/300
+Strength: 7
+Dexterity: 15
+Cooldown Timer: 3
+Profession Cooldown: 3
+----------------- 
+
+Name: Jack
+Performed Attack: basic attack
+
+Name: Joe
+Performed Attack: Cleave
+
+
+
+
+
+
+Round: 11
+------------------------------------
+------------------------------------
+Jack Status: 
+-----------------
+Health: 193/330
+Strength: 16
+Dexterity: 8
+Cooldown Timer: 4
+Profession Cooldown: 4
+----------------- 
+
+Joe Status: 
+-----------------
+Health: 108/300
+Strength: 7
+Dexterity: 15
+Cooldown Timer: 2
+Profession Cooldown: 2
+----------------- 
+
+Name: Jack
+Performed Attack: Bash
+
+Name: Joe
+Performed Attack: basic attack
+
+
+
+
+
+
+Round: 12
+------------------------------------
+------------------------------------
+Jack Status: 
+-----------------
+Health: 178/330
+Strength: 16
+Dexterity: 8
+Cooldown Timer: 3
+Profession Cooldown: 3
+----------------- 
+
+Joe Status: 
+-----------------
+Health: 92/300
+Strength: 7
+Dexterity: 15
+Cooldown Timer: 1
+Profession Cooldown: 1
+----------------- 
+
+Name: Jack
+Performed Attack: basic attack
+
+Name: Joe
+Performed Attack: basic attack
+
+
+
+
+
+
+Round: 13
+------------------------------------
+------------------------------------
+Jack Status: 
+-----------------
+Health: 178/330
+Strength: 16
+Dexterity: 8
+Cooldown Timer: 4
+Profession Cooldown: 4
+----------------- 
+
+Joe Status: 
+-----------------
+Health: 76/300
+Strength: 7
+Dexterity: 15
+Cooldown Timer: 4
+Profession Cooldown: 0
+----------------- 
+
+Name: Jack
+Performed Attack: basic attack
+
+Name: Joe
+Performed Attack: Charm
+
+
+
+
+
+
+Round: 14
+------------------------------------
+------------------------------------
+Jack Status: 
+-----------------
+Health: 156/330
+Strength: 16
+Dexterity: 8
+Cooldown Timer: 3
+Profession Cooldown: 3
+----------------- 
+
+Joe Status: 
+-----------------
+Health: 60/300
+Strength: 7
+Dexterity: 15
+Cooldown Timer: 3
+Profession Cooldown: 3
+----------------- 
+
+Name: Jack
+Performed Attack: basic attack
+
+Name: Joe
+Performed Attack: Cleave
+
+
+
+
+
+
+Round: 15
+------------------------------------
+------------------------------------
+Jack Status: 
+-----------------
+Health: 141/330
+Strength: 16
+Dexterity: 8
+Cooldown Timer: 2
+Profession Cooldown: 2
+----------------- 
+
+Joe Status: 
+-----------------
+Health: 44/300
+Strength: 7
+Dexterity: 15
+Cooldown Timer: 2
+Profession Cooldown: 2
+----------------- 
+
+Name: Jack
+Performed Attack: basic attack
+
+Name: Joe
+Performed Attack: basic attack
+
+
+
+
+
+
+Round: 16
+------------------------------------
+------------------------------------
+Jack Status: 
+-----------------
+Health: 126/330
+Strength: 16
+Dexterity: 8
+Cooldown Timer: 1
+Profession Cooldown: 1
+----------------- 
+
+Joe Status: 
+-----------------
+Health: 28/300
+Strength: 7
+Dexterity: 15
+Cooldown Timer: 1
+Profession Cooldown: 1
+----------------- 
+
+Name: Jack
+Performed Attack: basic attack
+
+Name: Joe
+Performed Attack: basic attack
+
+
+
+
+
+
+Round: 17
+------------------------------------
+------------------------------------
+Jack Status: 
+-----------------
+Health: 130/330
+Strength: 16
+Dexterity: 8
+Cooldown Timer: 6
+Profession Cooldown: 2
+----------------- 
+
+Joe Status: 
+-----------------
+Health: 20/300
+Strength: 7
+Dexterity: 15
+Cooldown Timer: 4
+Profession Cooldown: 0
+----------------- 
+
+Name: Jack
+Performed Attack: Drain
+
+Name: Joe
+Performed Attack: Charm
+
+
+
+
+
+
+Round: 18
+------------------------------------
+------------------------------------
+Jack Status: 
+-----------------
+Health: 108/330
+Strength: 16
+Dexterity: 8
+Cooldown Timer: 5
+Profession Cooldown: 1
+----------------- 
+
+Joe Status: 
+-----------------
+Health: 4/300
+Strength: 7
+Dexterity: 15
+Cooldown Timer: 3
+Profession Cooldown: 3
+----------------- 
+
+Name: Jack
+Performed Attack: basic attack
+
+Name: Joe
+Performed Attack: Cleave
+
+
+
+
+
+
+Round: 19
+------------------------------------
+------------------------------------
+Jack Status: 
+-----------------
+Health: 93/330
+Strength: 16
+Dexterity: 8
+Cooldown Timer: 4
+Profession Cooldown: 4
+----------------- 
+
+Joe Status: 
+-----------------
+Health: 0/300
+Strength: 7
+Dexterity: 15
+Cooldown Timer: 2
+Profession Cooldown: 2
+----------------- 
+
+Name: Jack
+Performed Attack: Bash
+
+Name: Joe
+Performed Attack: basic attack
+
+
+Jack wins!
+
+
+
+
+********************************************************************************************************************
+                                                            Game Over         
+********************************************************************************************************************
